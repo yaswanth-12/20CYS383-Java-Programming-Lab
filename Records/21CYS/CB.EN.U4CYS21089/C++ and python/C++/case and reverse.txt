@@ -1,0 +1,45 @@
+Task
+
+To reverse all words of a sentence after changing case of all the characters
+
+Sample Input 1
+
+c++ programming CLASS
+
+Sample Output 1
+
+The string after changing case of each character: C++ PROGRAMMING class
+
+The string after reversing each word: C++ GNIMMARGORP ssalc
+
+Sample input 2
+
+Interleaving Of 2 Given STRINGS
+
+Sample output 2
+
+The string after changing case of each character: iNTERLEAVING oF 2 gIVEN strings
+
+The string after reversing each word: GNIVAELRETNi Fo 2 NEVIg sgnirts
+
+
+#include <cctype>
+#include <iostream>
+#include <cstring>
+
+using namespace std;
+
+int main(){
+    char str[100];
+    char ch[];
+    cin >> str;
+    
+    for (int i = 0; i < strlen(str); i++) {
+    // convert str[i] to lowercase
+    ch = tolower(str[i]);
+    cout << ch;
+    }
+    
+    cout << "The string after changing case of each character: " << ch << endl ;
+    cout << "The string after reversing each word: " << str  ;
+}
