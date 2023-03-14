@@ -1,0 +1,3 @@
+I have two files: c, and c++ with extensions .c and .cpp respectively. The c-file prints Hello world! in the console and now t put the same 
+code in a c++ file and compiled it with a g++ compiler. The code worked properly with no errors.
+But this could not be the case always because when C speciific features are used the C++ compiler(g++) might not work.
