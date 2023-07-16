@@ -426,5 +426,10 @@ public class Main {
 
 ```
 ### Screenshots
+
+<center><img src = "./Project_Demo_Files/crimerecord.png"></center>
+<center><img src = "./Project_Demo_Files/homepage.jpeg"></center>
+<center><img src = "./Project_Demo_Files/reportcrime.png"></center>
+
 ### Demo GIF
 
