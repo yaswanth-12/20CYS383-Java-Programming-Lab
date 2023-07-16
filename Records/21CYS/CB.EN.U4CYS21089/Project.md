@@ -19,11 +19,11 @@ For this, we use a VPN and Secure Messaging to mask the complainant’s IP addre
 3) The E-Police Platform is multilingual, which makes it more user-friendly.
 
 ### Module Split-up
-|     Name    | Topic |
-|-------------|-------|
-| Deepthi     |       |
-| Adwaith     |       |
-| Yaswanth    |       |
+|     Name    |               Topic              |
+|-------------|----------------------------------|
+| Deepthi     |           GUI creation           |
+| Adwaith     |   File handling, ActionListeners |
+| Yaswanth    |      StringBuilder, Arraylist    |
 
 ### Code
 #### E-Crime Portal in Java
