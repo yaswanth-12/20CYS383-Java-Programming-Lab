@@ -3,10 +3,11 @@
 
 ## E-Crime Investigation Portal
 <br>
-### Project Description
+
+### Project Description 
 1) Creating an E-Police Platform that also includes a Secure Online Crime Reporting Platform where users can register an FIR anonymously. To accomplish
-For this, we use a VPN and Secure Messaging to mask the complainant’s IP address. <br>
-2) The platform also delivers services such as <br>
+For this, we use a VPN and Secure Messaging to mask the complainant’s IP address.
+2) The platform also delivers services such as 
   - Exclusive SOS button to send an alarm to the control room in case of an emergency
   - Alerts/Notification Messages
   - Track FIR Status
@@ -15,7 +16,7 @@ For this, we use a VPN and Secure Messaging to mask the complainant’s IP addre
   - Police Station Locator
   - Control Room Directory
   - Emergency Helplines
-3) The E-Police Platform is multilingual, which makes it more user-friendly. <br>
+3) The E-Police Platform is multilingual, which makes it more user-friendly.
 
 ### Module Split-up
 |     Name    | Topic |
